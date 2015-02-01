@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<store>
+ <article name = 'coffee' quantity = '100' price = '5.0' >
+</article>
+ <article name = 'milk' quantity = '100' price = '2.0' >
+</article>
+ <article name = 'sugar' quantity = '100' price = '2.0' >
+</article>
+ <article name = 'wheat' quantity = '100' price = '5.0' >
+</article>
+ <article name = 'olive oil' quantity = '100' price = '5.0' >
+</article>
+ <article name = 'orange' quantity = '100' price = '2.0' >
+</article>
+ <article name = 'apple juice' quantity = '100' price = '2.0' >
+</article>
+ <article name = 'tea' quantity = '100' price = '3.0' >
+</article>
+ <article name = 'soap' quantity = '100' price = '1.0' >
+</article>
+ <article name = 'soya' quantity = '100' price = '5.0' >
+</article>
+</store>
